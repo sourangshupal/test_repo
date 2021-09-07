@@ -1,3 +1,5 @@
 tree
 seed
-
+goat
+checken
+mutton
